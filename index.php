@@ -38,7 +38,7 @@ $fire = mysqli_query($con,$query) or die("can not delete from database.".mysqli_
 <!DOCTYPE html>
 <html>
 <head>
-	<title>crud oprations</title>
+	<title>crud oprations basic</title>
 
  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
